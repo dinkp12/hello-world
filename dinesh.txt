@@ -1,1 +1,2 @@
 My test file on feature branch
+Edited the test file for generating the pull request from master branch
